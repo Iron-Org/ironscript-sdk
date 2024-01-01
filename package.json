@@ -16,7 +16,7 @@
     "url": "https://github.com/Iron-Org/iron-script-sdk/issues"
   },
   "homepage": "https://github.com/Iron-Org/iron-script-sdk#readme",
-  "devDependencies": {
+  "dependencies": {
     "@rollup/plugin-node-resolve": "^15.2.3",
     "@rollup/plugin-terser": "^0.4.4",
     "axios": "^1.6.3",
