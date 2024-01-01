@@ -1,0 +1,17 @@
+{
+  "p": {
+    "alias": "production",
+    "describe": "Minimize file before Deploy",
+    "type": "boolean"
+  },
+  "t": {
+    "alias": "token",
+    "describe": "<token> Set your Token",
+    "type": "string"
+  },
+  "n": {
+    "alias": "new",
+    "describe": "<name> Create new Script Template",
+    "type": "string"
+  }
+}
