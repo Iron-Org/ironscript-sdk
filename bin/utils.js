@@ -17,7 +17,7 @@ const newScript = name => {
   }
 
   writeFileSync(join(resolved, 'index.js'), '');
-  writeFileSync(join(resolved, 'config.json'), '{ "roomid": 0 }');
+  writeFileSync(join(resolved, 'config.json'), '{ "roomid": 0, "folder": "" }');
 
   const signale = new Signale();
   signale.success('New script created!');

@@ -2,7 +2,7 @@
 
 Install:
 
-    npm install -g iron-script-sdk
+    npm install -g ironscript-sdk
 
 ## License
 
